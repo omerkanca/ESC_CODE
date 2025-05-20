@@ -249,3 +249,9 @@
 2002	2520	7652386180350438	back/CMakeFiles/back.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj	6b3d7d8dfa373c65
 2520	2892	7652386182500309	back/back.elf	add8e37f3e72c55
 1231	1577	7658364072787067	blink/CMakeFiles/blink.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj	d99acca4871ab82
+43	582	7694707251429595	blink/CMakeFiles/blink.dir/blink.c.obj	2c0adf120f8d627f
+582	1635	7694707260028947	blink/blink.elf	36240e3277417c07
+51	291	7694712335456040	blink/CMakeFiles/blink.dir/blink.c.obj	2c0adf120f8d627f
+291	584	7694712337082423	blink/blink.elf	36240e3277417c07
+44	249	7694727092378177	blink/CMakeFiles/blink.dir/blink.c.obj	2c0adf120f8d627f
+250	593	7694727094253568	blink/blink.elf	36240e3277417c07
