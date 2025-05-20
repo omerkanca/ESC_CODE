@@ -41,7 +41,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("C:/Users/omery/OneDrive/Desktop/pico_a/build/pico_extras/cmake_install.cmake")
   include("C:/Users/omery/OneDrive/Desktop/pico_a/build/pico-sdk/cmake_install.cmake")
-  include("C:/Users/omery/OneDrive/Desktop/pico_a/build/blink/cmake_install.cmake")
+  include("C:/Users/omery/OneDrive/Desktop/pico_a/build/main/cmake_install.cmake")
   include("C:/Users/omery/OneDrive/Desktop/pico_a/build/smlnk/cmake_install.cmake")
   include("C:/Users/omery/OneDrive/Desktop/pico_a/build/deneme/cmake_install.cmake")
   include("C:/Users/omery/OneDrive/Desktop/pico_a/build/back/cmake_install.cmake")

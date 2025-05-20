@@ -8,7 +8,7 @@
 	"installers" : [],
 	"paths" : 
 	{
-		"build" : "blink",
-		"source" : "blink"
+		"build" : "main",
+		"source" : "main"
 	}
 }

@@ -210,9 +210,9 @@ C:/Users/omery/OneDrive/Desktop/pico_a/build/pico_extras/src/rp2_common/usb_devi
 C:/Users/omery/OneDrive/Desktop/pico_a/build/pico_extras/src/rp2_common/usb_device_msc/CMakeFiles/rebuild_cache.dir
 C:/Users/omery/OneDrive/Desktop/pico_a/build/pico-sdk/docs/CMakeFiles/edit_cache.dir
 C:/Users/omery/OneDrive/Desktop/pico_a/build/pico-sdk/docs/CMakeFiles/rebuild_cache.dir
-C:/Users/omery/OneDrive/Desktop/pico_a/build/blink/CMakeFiles/blink.dir
-C:/Users/omery/OneDrive/Desktop/pico_a/build/blink/CMakeFiles/edit_cache.dir
-C:/Users/omery/OneDrive/Desktop/pico_a/build/blink/CMakeFiles/rebuild_cache.dir
+C:/Users/omery/OneDrive/Desktop/pico_a/build/main/CMakeFiles/main.dir
+C:/Users/omery/OneDrive/Desktop/pico_a/build/main/CMakeFiles/edit_cache.dir
+C:/Users/omery/OneDrive/Desktop/pico_a/build/main/CMakeFiles/rebuild_cache.dir
 C:/Users/omery/OneDrive/Desktop/pico_a/build/smlnk/CMakeFiles/smlnk.dir
 C:/Users/omery/OneDrive/Desktop/pico_a/build/smlnk/CMakeFiles/edit_cache.dir
 C:/Users/omery/OneDrive/Desktop/pico_a/build/smlnk/CMakeFiles/rebuild_cache.dir

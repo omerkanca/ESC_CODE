@@ -33,7 +33,7 @@ if (CMAKE_C_COMPILER_ID STREQUAL "GNU")
 endif()
 
 # Hardware-specific examples in subdirectories:
-add_subdirectory(blink)
+add_subdirectory(main)
 add_subdirectory(smlnk)
 add_subdirectory(deneme)
 add_subdirectory(back)

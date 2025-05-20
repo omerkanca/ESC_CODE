@@ -876,7 +876,7 @@
 			"path" : "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/cmake/share/cmake-3.25/Modules/FindPackageMessage.cmake"
 		},
 		{
-			"path" : "blink/CMakeLists.txt"
+			"path" : "main/CMakeLists.txt"
 		},
 		{
 			"isExternal" : true,

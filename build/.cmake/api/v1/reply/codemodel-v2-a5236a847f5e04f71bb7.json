@@ -596,9 +596,9 @@
 					"source" : "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/boot_stage2",
 					"targetIndexes" : 
 					[
+						1,
 						2,
-						3,
-						4
+						3
 					]
 				},
 				{
@@ -864,7 +864,7 @@
 					"source" : "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/pico_cyw43_driver",
 					"targetIndexes" : 
 					[
-						5
+						4
 					]
 				},
 				{
@@ -1279,18 +1279,18 @@
 					"source" : "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/docs"
 				},
 				{
-					"build" : "blink",
-					"jsonFile" : "directory-blink-Debug-c4efb9e7d75b1bc9fd79.json",
+					"build" : "main",
+					"jsonFile" : "directory-main-Debug-72090c4a4cf973f97e42.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.12"
 					},
 					"parentIndex" : 0,
 					"projectIndex" : 0,
-					"source" : "blink",
+					"source" : "main",
 					"targetIndexes" : 
 					[
-						1
+						6
 					]
 				},
 				{
@@ -1320,7 +1320,7 @@
 					"source" : "deneme",
 					"targetIndexes" : 
 					[
-						6
+						5
 					]
 				},
 				{
@@ -1360,7 +1360,7 @@
 					"targetIndexes" : 
 					[
 						0,
-						1,
+						5,
 						6,
 						13
 					]
@@ -1479,10 +1479,10 @@
 					"parentIndex" : 0,
 					"targetIndexes" : 
 					[
+						1,
 						2,
 						3,
 						4,
-						5,
 						7,
 						8,
 						9,
@@ -1501,13 +1501,6 @@
 					"id" : "back::@19a9688fcf40ca13fa2e",
 					"jsonFile" : "target-back-Debug-7eb55cdc2b10674e6f55.json",
 					"name" : "back",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 100,
-					"id" : "blink::@655f412016ec51306758",
-					"jsonFile" : "target-blink-Debug-2be943844f1211b31538.json",
-					"name" : "blink",
 					"projectIndex" : 0
 				},
 				{
@@ -1543,6 +1536,13 @@
 					"id" : "deneme::@3290d5c02db922d9ae0b",
 					"jsonFile" : "target-deneme-Debug-01a6b0a802412d16b653.json",
 					"name" : "deneme",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 100,
+					"id" : "main::@15c4a824ab2728a3f5e7",
+					"jsonFile" : "target-main-Debug-d27d0d8d3e5841243405.json",
+					"name" : "main",
 					"projectIndex" : 0
 				},
 				{
