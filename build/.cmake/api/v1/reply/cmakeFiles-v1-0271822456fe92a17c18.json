@@ -887,7 +887,7 @@
 			"path" : "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk-tools/pico-sdk-tools-config.cmake"
 		},
 		{
-			"path" : "smlnk/CMakeLists.txt"
+			"path" : "output_pwm/CMakeLists.txt"
 		},
 		{
 			"isExternal" : true,

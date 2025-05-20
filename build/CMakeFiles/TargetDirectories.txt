@@ -213,9 +213,9 @@ C:/Users/omery/OneDrive/Desktop/pico_a/build/pico-sdk/docs/CMakeFiles/rebuild_ca
 C:/Users/omery/OneDrive/Desktop/pico_a/build/main/CMakeFiles/main.dir
 C:/Users/omery/OneDrive/Desktop/pico_a/build/main/CMakeFiles/edit_cache.dir
 C:/Users/omery/OneDrive/Desktop/pico_a/build/main/CMakeFiles/rebuild_cache.dir
-C:/Users/omery/OneDrive/Desktop/pico_a/build/smlnk/CMakeFiles/smlnk.dir
-C:/Users/omery/OneDrive/Desktop/pico_a/build/smlnk/CMakeFiles/edit_cache.dir
-C:/Users/omery/OneDrive/Desktop/pico_a/build/smlnk/CMakeFiles/rebuild_cache.dir
+C:/Users/omery/OneDrive/Desktop/pico_a/build/output_pwm/CMakeFiles/output_pwm.dir
+C:/Users/omery/OneDrive/Desktop/pico_a/build/output_pwm/CMakeFiles/edit_cache.dir
+C:/Users/omery/OneDrive/Desktop/pico_a/build/output_pwm/CMakeFiles/rebuild_cache.dir
 C:/Users/omery/OneDrive/Desktop/pico_a/build/deneme/CMakeFiles/deneme.dir
 C:/Users/omery/OneDrive/Desktop/pico_a/build/deneme/CMakeFiles/edit_cache.dir
 C:/Users/omery/OneDrive/Desktop/pico_a/build/deneme/CMakeFiles/rebuild_cache.dir

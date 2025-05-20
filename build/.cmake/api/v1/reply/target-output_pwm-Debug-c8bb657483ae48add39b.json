@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "smlnk/smlnk.elf"
+			"path" : "output_pwm/output_pwm.elf"
 		}
 	],
 	"backtrace" : 1,
@@ -22,7 +22,7 @@
 		],
 		"files" : 
 		[
-			"smlnk/CMakeLists.txt",
+			"output_pwm/CMakeLists.txt",
 			"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/boot_stage2/CMakeLists.txt",
 			"CMakeLists.txt",
 			"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/common/pico_binary_info/CMakeLists.txt",
@@ -298,11 +298,11 @@
 				},
 				{
 					"backtrace" : 12,
-					"define" : "PICO_PROGRAM_URL=\"https://github.com/raspberrypi/pico-examples/tree/HEAD/smlnk\""
+					"define" : "PICO_PROGRAM_URL=\"https://github.com/raspberrypi/pico-examples/tree/HEAD/output_pwm\""
 				},
 				{
 					"backtrace" : 14,
-					"define" : "PICO_TARGET_NAME=\"smlnk\""
+					"define" : "PICO_TARGET_NAME=\"output_pwm\""
 				},
 				{
 					"backtrace" : 2,
@@ -699,11 +699,11 @@
 				},
 				{
 					"backtrace" : 12,
-					"define" : "PICO_PROGRAM_URL=\"https://github.com/raspberrypi/pico-examples/tree/HEAD/smlnk\""
+					"define" : "PICO_PROGRAM_URL=\"https://github.com/raspberrypi/pico-examples/tree/HEAD/output_pwm\""
 				},
 				{
 					"backtrace" : 14,
-					"define" : "PICO_TARGET_NAME=\"smlnk\""
+					"define" : "PICO_TARGET_NAME=\"output_pwm\""
 				},
 				{
 					"backtrace" : 2,
@@ -1087,11 +1087,11 @@
 				},
 				{
 					"backtrace" : 12,
-					"define" : "PICO_PROGRAM_URL=\"https://github.com/raspberrypi/pico-examples/tree/HEAD/smlnk\""
+					"define" : "PICO_PROGRAM_URL=\"https://github.com/raspberrypi/pico-examples/tree/HEAD/output_pwm\""
 				},
 				{
 					"backtrace" : 14,
-					"define" : "PICO_TARGET_NAME=\"smlnk\""
+					"define" : "PICO_TARGET_NAME=\"output_pwm\""
 				},
 				{
 					"backtrace" : 2,
@@ -1283,7 +1283,7 @@
 			"id" : "bs2_default_padded_checksummed_asm::@bc554eaed616d198a22d"
 		}
 	],
-	"id" : "smlnk::@f03c1425b96449cfcc71",
+	"id" : "output_pwm::@dd7f85478abf1a5682ef",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -2068,7 +2068,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-Wl,-Map=smlnk.elf.map",
+				"fragment" : "-Wl,-Map=output_pwm.elf.map",
 				"role" : "flags"
 			},
 			{
@@ -2119,12 +2119,12 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "smlnk",
-	"nameOnDisk" : "smlnk.elf",
+	"name" : "output_pwm",
+	"nameOnDisk" : "output_pwm.elf",
 	"paths" : 
 	{
-		"build" : "smlnk",
-		"source" : "smlnk"
+		"build" : "output_pwm",
+		"source" : "output_pwm"
 	},
 	"sourceGroups" : 
 	[
@@ -2193,7 +2193,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "smlnk/smlnk.c",
+			"path" : "output_pwm/output_pwm.c",
 			"sourceGroupIndex" : 0
 		},
 		{

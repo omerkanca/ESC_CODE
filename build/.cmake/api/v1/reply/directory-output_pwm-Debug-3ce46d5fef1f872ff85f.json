@@ -8,7 +8,7 @@
 	"installers" : [],
 	"paths" : 
 	{
-		"build" : "smlnk",
-		"source" : "smlnk"
+		"build" : "output_pwm",
+		"source" : "output_pwm"
 	}
 }

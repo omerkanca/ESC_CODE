@@ -1077,7 +1077,7 @@
 					"source" : "C:/Users/omery/Documents/Pico-v1.5.1/pico-extras/src/common/pico_scanvideo",
 					"targetIndexes" : 
 					[
-						11
+						12
 					]
 				},
 				{
@@ -1171,7 +1171,7 @@
 					"source" : "C:/Users/omery/Documents/Pico-v1.5.1/pico-extras/src/rp2_common/pico_audio_i2s",
 					"targetIndexes" : 
 					[
-						7
+						8
 					]
 				},
 				{
@@ -1186,7 +1186,7 @@
 					"source" : "C:/Users/omery/Documents/Pico-v1.5.1/pico-extras/src/rp2_common/pico_audio_pwm",
 					"targetIndexes" : 
 					[
-						8
+						9
 					]
 				},
 				{
@@ -1201,7 +1201,7 @@
 					"source" : "C:/Users/omery/Documents/Pico-v1.5.1/pico-extras/src/rp2_common/pico_audio_spdif",
 					"targetIndexes" : 
 					[
-						9
+						10
 					]
 				},
 				{
@@ -1216,7 +1216,7 @@
 					"source" : "C:/Users/omery/Documents/Pico-v1.5.1/pico-extras/src/rp2_common/pico_sd_card",
 					"targetIndexes" : 
 					[
-						12
+						13
 					]
 				},
 				{
@@ -1231,7 +1231,7 @@
 					"source" : "C:/Users/omery/Documents/Pico-v1.5.1/pico-extras/src/rp2_common/pico_scanvideo_dpi",
 					"targetIndexes" : 
 					[
-						10
+						11
 					]
 				},
 				{
@@ -1294,18 +1294,18 @@
 					]
 				},
 				{
-					"build" : "smlnk",
-					"jsonFile" : "directory-smlnk-Debug-3f1aaacf66ed0c65a25f.json",
+					"build" : "output_pwm",
+					"jsonFile" : "directory-output_pwm-Debug-3ce46d5fef1f872ff85f.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.12"
 					},
 					"parentIndex" : 0,
 					"projectIndex" : 0,
-					"source" : "smlnk",
+					"source" : "output_pwm",
 					"targetIndexes" : 
 					[
-						13
+						7
 					]
 				},
 				{
@@ -1362,7 +1362,7 @@
 						0,
 						5,
 						6,
-						13
+						7
 					]
 				},
 				{
@@ -1483,12 +1483,12 @@
 						2,
 						3,
 						4,
-						7,
 						8,
 						9,
 						10,
 						11,
 						12,
+						13,
 						14,
 						15
 					]
@@ -1546,6 +1546,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 101,
+					"id" : "output_pwm::@dd7f85478abf1a5682ef",
+					"jsonFile" : "target-output_pwm-Debug-c8bb657483ae48add39b.json",
+					"name" : "output_pwm",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 91,
 					"id" : "pico_audio_i2s_audio_i2s_pio_h::@54354557063177904464",
 					"jsonFile" : "target-pico_audio_i2s_audio_i2s_pio_h-Debug-e0b8bdce809482a23ce6.json",
@@ -1586,13 +1593,6 @@
 					"jsonFile" : "target-pico_sd_card_sd_card_pio_h-Debug-add7411631549fd65de7.json",
 					"name" : "pico_sd_card_sd_card_pio_h",
 					"projectIndex" : 2
-				},
-				{
-					"directoryIndex" : 101,
-					"id" : "smlnk::@f03c1425b96449cfcc71",
-					"jsonFile" : "target-smlnk-Debug-fc1530856820c7acfa73.json",
-					"name" : "smlnk",
-					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 62,

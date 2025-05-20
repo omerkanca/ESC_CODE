@@ -34,6 +34,6 @@ endif()
 
 # Hardware-specific examples in subdirectories:
 add_subdirectory(main)
-add_subdirectory(smlnk)
+add_subdirectory(output_pwm)
 add_subdirectory(deneme)
 add_subdirectory(back)
